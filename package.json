@@ -1,0 +1,23 @@
+{
+	"name": "@e3m-io/solid-ds",
+	"version": "1.0.0",
+	"author": "e3m-io",
+	"license": "Apache-2.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/e3m-io/solid-ds.git"
+	},
+	"dependencies": {
+		"@e3m-io/css-ds": "github:e3m-io/css-ds",
+		"clsx": "^2"
+	},
+	"devDependencies": {
+		"prettier": "^3.2.5",
+		"typescript": "^5.3.3"
+	},
+	"peerDependencies": {
+		"solid-js": "^1"
+	},
+	"type": "module",
+	"packageManager": "pnpm@8.15.3"
+}
